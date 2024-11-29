@@ -6,3 +6,4 @@ Highlighted topics:
 - Distance to Prototypes
 - Decision under Uncertainty
 
+TO BE UPDATED after the editor's response
